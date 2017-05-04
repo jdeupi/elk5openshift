@@ -1,2 +1,2 @@
 # elk5openshift
-ELK5 for Openshift
+ELK5 for Openshift and stateful
