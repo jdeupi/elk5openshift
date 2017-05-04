@@ -1,2 +1,2 @@
-cluster.name=docker-cluster
-bootstrap.memory_lock=true
+#cluster.name=docker-cluster
+#bootstrap.memory_lock=true
