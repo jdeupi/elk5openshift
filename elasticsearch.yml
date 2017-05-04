@@ -1,5 +1,3 @@
-node.name: "My First Node"
-cluster.name: mycluster1
 node.master: false
 node.data: false
 index.number_of_shards: 1
